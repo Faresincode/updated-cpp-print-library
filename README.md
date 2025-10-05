@@ -4,17 +4,15 @@ A comprehensive and reusable **printing utility class** for C++ that helps you q
 It integrates with helper classes like `clsString`, `clsMath`, and `clsUtil` to provide advanced functionality.
 
 ---
+📁 Project Structure
 
-## 📁 Project Structure
-
--clsPrint
--clsPrint.h         # Core header file
--clsString.h        # String helper (vowel check, etc.)
--clsMath.h          # Math helper (prime, palindrome, perfect numbers, etc.)
--clsUtil.h          # Utility (random char, keys, tabs, etc.)
--main.cpp           # Testing file (example provided below)
--README.txt         # Documentation file
-
+📦 clsPrint
+├─ 📜 clsPrint.h — Core header file
+├─ 📜 clsString.h — String helper (vowel check, etc.)
+├─ 📜 clsMath.h — Math helper (prime, palindrome, perfect numbers, etc.)
+├─ 📜 clsUtil.h — Utility (random char, keys, tabs, etc.)
+├─ 📜 main.cpp — Testing file (example provided below)
+└─ 📄 README.txt — Documentation file
 ---
 
 ## 🚀 Features Overview
